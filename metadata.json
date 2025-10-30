@@ -1,0 +1,5 @@
+{
+  "name": "Aqua-Sight: Smart Water Management",
+  "description": "An AI-powered dashboard for urban water management. This system visualizes real-time water consumption, uses AI to detect leaks and anomalies, and provides actionable alerts to help municipalities conserve water and prevent wastage.",
+  "requestFramePermissions": []
+}
